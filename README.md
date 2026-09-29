@@ -148,6 +148,7 @@ Tools that parse multiple document formats and preserve structure, layout, table
 | [LibreOffice](https://github.com/LibreOffice/core) | Office ↔ PDF and broad Office-format conversion | MPL/LGPL/GPL components |
 | [Calibre](https://github.com/kovidgoyal/calibre) | EPUB/ebook conversion and management | GPL-3.0 |
 | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | Image format conversion and preprocessing | Apache-2.0 |
+| [FileOnTap](https://fileontap.com/) | Browser-local image and PDF conversion | Free web app |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Multimedia conversion; useful for embedded media workflows | LGPL/GPL depending on build |
 
 Typical pipeline:
