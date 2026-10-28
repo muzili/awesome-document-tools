@@ -75,6 +75,7 @@ Tools that parse multiple document formats and preserve structure, layout, table
 - [Mistral OCR](https://docs.mistral.ai/capabilities/document-ai/)
 - [Google Cloud Vision](https://cloud.google.com/vision)
 - [Azure AI Vision](https://azure.microsoft.com/products/ai-services/ai-vision)
+- [FastOCR](https://fastocr.org) — Hosted OCR for images and PDFs, with searchable PDF output and an API.
 
 ---
 
