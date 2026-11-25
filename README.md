@@ -479,6 +479,7 @@ For production systems where maximum extraction accuracy is more important than 
 | [Anthropic](https://www.anthropic.com/) | Multimodal document understanding |
 | [Autodesk Platform Services](https://aps.autodesk.com/) | CAD/BIM ecosystem |
 | [Open Design Alliance](https://www.opendesign.com/) | DWG/DGN/CAD SDKs |
+| [JustMarkdown](https://justmarkdown.com) | Document-to-Markdown conversion with a free browser path, on-device OCR, hosted structured OCR fallback, and an MCP server |
 
 ---
 
